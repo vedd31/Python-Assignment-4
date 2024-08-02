@@ -1,0 +1,3 @@
+sadhvi: 4 - very good
+shivangi: 5 - excelent
+pooja: 4.5 - nice
